@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing ... Competitie Programming.
+- 🔭 I’m currently doing ... Competitive Programming.
 - 🌱 I’m currently learning ...Data Structures and CS Fundamentals.
 - 🤔 I’m looking for help with ...Competitive Programming and DSA, learning resources for the same.
 - 📫 How to reach me: ...E-mail: shatanshubodkhe@gmail.com , Twitter: @shatanshubodkhe
