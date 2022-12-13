@@ -3,7 +3,7 @@
 - 🔭 I’m currently doing ... Competitive Programming.
 - 🌱 I’m currently learning ...Data Structures and CS Fundamentals.
 - 🤔 I’m looking for help with ...Competitive Programming and DSA, learning resources for the same.
-- 📫 How to reach me: ...E-mail: shatanshubodkhe@gmail.com , Twitter: @shatanshubodkhe
+- 📫 How to reach me: ...E-mail: shatanshubodkhe@gmail.com , LinkedIn: https://www.linkedin.com/in/shatanshu-bodkhe-001a521b8/ , Twitter: @shatanshubodkhe
 - 👾 Codeforces:https://codeforces.com/profile/shatanshu_3006
 - 👾 Codechef:https://www.codechef.com/users/shatanshu_3006
 - 👾 LeetCode:https://leetcode.com/shatanshu_3006/
