@@ -7,12 +7,12 @@
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ...I accidentally landed here and now love contributing!!
 
-### Stats
+### My Stats 
 - ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shatanshu3006&show_icons=true)
 - ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shatanshu3006&theme=blue-green)
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=shatanshu3006)
 
-### Snake eating my contribution
+### Snake eating my contributions
 ![snake gif](https://github.com/shatanshu3006/shatanshu3006/blob/output/github-contribution-grid-snake.gif)
 
 
