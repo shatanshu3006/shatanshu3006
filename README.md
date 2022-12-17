@@ -1,4 +1,5 @@
-![logo](https://github.com/shatanshu3006/shatanshu3006/blob/main/Github_banner.gif)
+
+![logo](https://github.com/shatanshu3006/shatanshu3006/blob/main/animated_banner.gif)
 
 <h1 align="center">Hi 👋, I'm Shatanshu Bodkhe</h1>
 <h3 align="center">An aspiring Programmer and a Developer, also learning CS Fundamentals !!</h3>
