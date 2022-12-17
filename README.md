@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shatanshubodkhe" target="blank"><img src="https://img.shields.io/twitter/follow/shatanshubodkhe?logo=twitter&style=for-the-badge" alt="shatanshubodkhe" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/zQinMHnDYiNnq/200w.webp?cid=ecf05e47dsu1zd4oaw88bva4i4nsgcqq4ba01rgb9o62tycl&rid=200w.webp&ct=g">
+<img align="right" alt="Coding" width="400" height="250" src="https://media4.giphy.com/media/zQinMHnDYiNnq/200w.webp?cid=ecf05e47dsu1zd4oaw88bva4i4nsgcqq4ba01rgb9o62tycl&rid=200w.webp&ct=g">
 
 - 🔭 I’m currently doing **Competitive Programming / WebDev**
 
