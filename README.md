@@ -8,6 +8,7 @@
 - ⚡ Fun fact: ...I accidentally landed here and now love contributing!!
 - ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shatanshu3006&show_icons=true)
 - ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shatanshu3006&theme=blue-green)
+- ![Profile View Counter](https://komarev.com/ghpvc/?username=shatanshu3006)
 
 
 
