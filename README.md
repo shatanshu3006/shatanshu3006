@@ -7,7 +7,7 @@
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ...I accidentally landed here and now love contributing!!
 - ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shatanshu3006&show_icons=true)
-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=shatanshu3006/CODEFORCES)
+- ![GitHub Contributors Image](https://contrib.rocks/image?repo=shatanshu3006/SDE-Interview-Questions)
 
 <!--
 **shatanshu3006/shatanshu3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
