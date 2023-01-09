@@ -1,6 +1,7 @@
 ![logo](https://github.com/shatanshu3006/shatanshu3006/blob/main/banner%20(2).png)
 <h1 align="center">Hi Everyone! 👋, I'm Shatanshu Bodkhe</h1>
 <h3 align="center">An aspiring Programmer and a Developer, also learning CS Fundamentals !!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shatanshu3006&label=Profile%20views&color=0e75b6&style=flat" alt="shatanshu3006" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="800" src="https://github-profile-trophy.vercel.app/?username=shatanshu3006" alt="shatanshu3006" /></a> </p>
