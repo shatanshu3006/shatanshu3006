@@ -1,4 +1,4 @@
-![logo](https://github.com/shatanshu3006/shatanshu3006/blob/main/banner%20(2).png)
+
 <h1 align="center">Hi Everyone! 👋, I'm Shatanshu Bodkhe</h1>
 <h3 align="center">An aspiring Programmer and a Developer, also learning CS Fundamentals !!</h3>
 
